@@ -1,7 +1,7 @@
-## HP Pavilion Desktop 590 i7-8700 Hackintosh OpenCore EFI
+## HP Pavilion Desktop 590 i7-8700 黑苹果 OpenCore EFI
 
 
-### [简体中文](README.zh_CN.md)
+### [English](README.md)
 
 
 ### OpenCore
@@ -19,16 +19,16 @@
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [USBMap.kext v1.0](https://github.com/corpnewt/USBMap)
+- [USBMap.kext v1.0.0](https://github.com/corpnewt/USBMap)
 - [EFICheckDisabler.kext v1.0.0](https://github.com/w19996/EFICheckDisabler)
 
 
-### Tools
+### 工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
-- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA OCC.
-- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS.
-- [MountEFI](https://github.com/corpnewt/MountEFI) Mount EFI partition.
-- [EFI Agent](https://github.com/headkaze/EFI-Agent) Better EFI partition mount App.
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
-- [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
+- [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。
+- [EFI Agent](https://github.com/headkaze/EFI-Agent) 更方便的EFI分区挂载工具。
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) macOS 官方镜像下载工具。
+- [ProperTree](https://github.com/corpnewt/ProperTree) Plist 编辑器。
