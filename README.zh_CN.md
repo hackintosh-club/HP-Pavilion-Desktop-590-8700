@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts
@@ -17,7 +17,7 @@
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.1](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.7.5](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.6](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [USBMap.kext v1.0.0](https://github.com/corpnewt/USBMap)
 - [EFICheckDisabler.kext v1.0.0](https://github.com/w19996/EFICheckDisabler)
