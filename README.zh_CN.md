@@ -6,11 +6,11 @@
 
 ### Screenshot
 
-[!macOS Ventura](Screenshot/about.png)
+![macOS Ventura](Screenshot/about.png)
 
-[!Info](Screenshot/info.png)
+![Info](Screenshot/info.png)
 
-[!Geekbench 5](Screenshot/geekbench5.png)
+![Geekbench 5](Screenshot/geekbench5.png)
 
 
 
