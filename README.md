@@ -29,8 +29,9 @@
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AppleALC.kext 1.7.7](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [USBMap.kext v1.0](https://github.com/corpnewt/USBMap)
 - [EFICheckDisabler.kext v1.0.0](https://github.com/w19996/EFICheckDisabler)
+- [RadeonSensor.kext v0.3.1](https://github.com/aluveitie/RadeonSensor)
+- [SMCRadeonGPU.kext v0.3.1](https://github.com/aluveitie/RadeonSensor)
 
 
 ### Tools
