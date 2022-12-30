@@ -4,19 +4,32 @@
 ### [简体中文](README.zh_CN.md)
 
 
+### Spec
+
+- Chipset: Intel H370
+- CPU: Intel 8th i7-8700
+- Memo: Samsung 16GB(2x8GB) DDR4 2666 Mhz
+- GPU: AMD Radeon RX 560 4GB
+- HDA: Realtek ALC671
+- SSD: WD SN550 1TB
+- LAN: Realtek RTL8111
+- WLAN: BCM94360CS2
+
+
+### OpenCore
+
+[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
+
+
 ### Screenshot
+
+![PC](https://support.hp.com/doc-images/5/c05992200.jpg)
 
 ![macOS Ventura](Screenshot/about.png)
 
 ![Info](Screenshot/info.png)
 
 ![Geekbench 5](Screenshot/geekbench5.png)
-
-
-
-### OpenCore
-
-[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts

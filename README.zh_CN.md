@@ -4,19 +4,32 @@
 ### [English](README.md)
 
 
-### Screenshot
+### 机器配置
+
+- 主板: Intel H370
+- 处理器: Intel 八代 i7-8700
+- 内存: 三星 16GB(2x8GB) DDR4 2666 Mhz
+- 显卡: AMD Radeon RX 560 4GB
+- 声卡: Realtek ALC623
+- 硬盘: 西数蓝盘 SN550 1TB
+- 网卡: Realtek RTL8111
+- 无线: BCM94360CS2（白果拆机卡）
+
+
+### OpenCore
+
+[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
+
+
+### 系统截图
+
+![PC](https://support.hp.com/doc-images/5/c05992200.jpg)
 
 ![macOS Ventura](Screenshot/about.png)
 
 ![Info](Screenshot/info.png)
 
 ![Geekbench 5](Screenshot/geekbench5.png)
-
-
-
-### OpenCore
-
-[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Kexts
