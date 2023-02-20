@@ -5,7 +5,7 @@
 	<key>#DEVICE</key>
 	<string>HP-Pavilion-Desktop-590</string>
 	<key>#VERSION</key>
-	<string>0.8.8</string>
+	<string>0.8.9</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>

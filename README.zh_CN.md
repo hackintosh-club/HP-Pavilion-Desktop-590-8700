@@ -18,7 +18,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.8](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 系统截图
@@ -38,9 +38,9 @@
 - [SMCProcessor.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [SMCSuperIO.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
 - [VirtualSMC.kext 1.3.0](https://github.com/acidanthera/VirtualSMC)
-- [WhateverGreen.kext 1.6.3](https://github.com/acidanthera/WhateverGreen)
+- [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.7.8](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.7.9](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 - [EFICheckDisabler.kext v1.0.0](https://github.com/w19996/EFICheckDisabler)
 - [RadeonSensor.kext v0.3.1](https://github.com/aluveitie/RadeonSensor)
