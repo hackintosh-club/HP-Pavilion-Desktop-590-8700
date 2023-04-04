@@ -18,7 +18,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### 系统截图
@@ -40,16 +40,16 @@
 - [VirtualSMC.kext 1.3.1](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.4](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.8.0](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.1](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [EFICheckDisabler.kext 1.0.0](https://github.com/w19996/EFICheckDisabler)
-- [RadeonSensor.kext 0.3.1](https://github.com/aluveitie/RadeonSensor)
-- [SMCRadeonGPU.kext 0.3.1](https://github.com/aluveitie/RadeonSensor)
+- [RadeonSensor.kext 0.3.3](https://github.com/aluveitie/RadeonSensor)
+- [SMCRadeonGPU.kext 0.3.3](https://github.com/aluveitie/RadeonSensor)
 
 
 ### 工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 即 `OCAT`.
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 即 `OCC`。
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 三码生成工具。
 - [MountEFI](https://github.com/corpnewt/MountEFI) EFI 分区挂载工具。

@@ -18,7 +18,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### Screenshot
@@ -42,15 +42,15 @@
 - [NVMeFix.kext 1.1.0](https://github.com/acidanthera/NVMeFix)
 - [AppleALC.kext 1.8.0](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
-- [EFICheckDisabler.kext 1.0.0](https://github.com/w19996/EFICheckDisabler)
-- [RadeonSensor.kext 0.3.1](https://github.com/aluveitie/RadeonSensor)
-- [SMCRadeonGPU.kext 0.3.1](https://github.com/aluveitie/RadeonSensor)
+- [RadeonSensor.kext 0.3.3](https://github.com/aluveitie/RadeonSensor)
+- [SMCRadeonGPU.kext 0.3.3](https://github.com/aluveitie/RadeonSensor)
 
 
 ### Tools
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
-- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA OCC.
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) AKA `OCAT`.
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS.
 - [MountEFI](https://github.com/corpnewt/MountEFI) Mount EFI partition.
 - [EFI Agent](https://github.com/headkaze/EFI-Agent) Better EFI partition mount App.
